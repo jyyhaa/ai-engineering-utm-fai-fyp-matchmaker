@@ -1,7 +1,5 @@
 # V1 Architecture Decisions & Requirements Traceability — UTM FAI FYP Matchmaker
 
-**Version:** 1.1
-
 ---
 
 ## 1. Requirements-Driven Architecture Needs

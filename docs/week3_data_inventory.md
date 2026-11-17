@@ -1,23 +1,62 @@
-# Data Inventory — UTM FAI FYP Matchmaker (Prototype Pipeline)
-Version: 1.2
+# Week 3 — Data Inventory
 
----
+## Project Information
 
-## Source Inventory Table
+**Project:** UTM FAI FYP & Supervisor Matching Assistant  
+**Course:** SAIA 3113 — AI Engineering  
+**Selected Pathway:** A — PDF/TXT Documents
 
-| Source ID | Filename / Source Path | Data Type & Intended Purpose | Version / Date / Owner | Access / Rights | Ingestion Inspection Evidence |
-| :---: | :--- | :--- | :--- | :--- | :--- |
-| **S01** | `data/raw/student_handbook_demo.pdf` | Unstructured PDF / Proxy policy handbook for testing section-level text extraction and chunking (FR2, NFR4). | 2026 Demo Edition / Teaching Team | Synthetic Educational Lab Dataset | Verified in Colab (`RAW_DIR`). 1-page PDF with clean selectable text across 4 sections (Registration, Attendance, Graduation, Academic Support). |
-| **S02** | `data/raw/faq_demo.txt` | Plain Text (`.txt`) / Proxy Q&A knowledge source for testing multi-format ingestion and citation attribution (FR1, RAI4). | 2026 Demo Edition / Teaching Team | Synthetic Educational Lab Dataset | Verified in Colab (`RAW_DIR`). UTF-8 plain text containing 2 synthetic Q&A pairs separated by blank lines. |
+## 1. Data Source Inventory
 
----
+| Source ID | Filename / URL | Type and Purpose | Version / Date / Owner | Access / Rights | Inspection Evidence |
+|---|---|---|---|---|---|
+| S01 | `fai_all_lecturer_profiles.txt` | TXT; lecturer names, departments, and research expertise for supervisor matching | Compiled 17 November 2026; UTM FAI source webpages | Public faculty webpages; reuse and redistribution rights not independently confirmed | 117 records detected; 33,335 characters; readable TXT |
+| S02 | `utm_fai_fyp_guidelines.pdf.pdf` | PDF; official FYP policies and procedures | Academic Session 2026/2027; UTM Faculty of Artificial Intelligence | Institutional handbook; redistribution permission not independently confirmed | 119 pages; 115 pages with extractable text; 4 pages without extractable text |
 
-## Requirement Traceability Checkpoint
+## 2. Requirements Traceability
 
-* **Prototype Dataset Justification:**
-  * Using the `01_documents` dummy dataset (`student_handbook_demo.pdf` and `faq_demo.txt`) provides a complete, deterministic benchmark for Lab 3 pipeline verification.
-  * **FR1 & FR2:** Validates multi-format text extraction (`.pdf` and `.txt`) and paragraph-aware chunking across structured sections and Q&A blocks.
-  * **RAI4 & NFR4:** Establishes SHA-256 source hashing and chunk-level metadata tracking (`record_id`, `source`, `source_sha256`) to guarantee 100% citation traceability.
-* **Data Storage Strategy:**
-  * Raw input documents are stored under `data/raw/`.
-  * Cleaned, unified text chunks from both files will be exported to `data/processed/prepared_text.jsonl` in Part B.
+- **FR1 — Supervisor Matching:** Requires lecturer names, departments, and research expertise from S01.
+- **FR2 — FYP Policy Q&A:** Requires official handbook information from S02.
+- **FR3 — Scope Refinement:** Uses relevant expertise and FYP guidance from both sources.
+- **FR5 — Citations:** Requires preservation of source URLs and PDF page information.
+- **NFR4 — Source Updates:** Requires source metadata and reproducible processing.
+
+## 3. Initial Inspection Observations
+
+### S01 — Lecturer Profiles
+
+- File size: 34,172 bytes.
+- Total characters: 33,335.
+- Lecturer records detected: 117.
+- The TXT contains labeled fields such as Record ID, Name, Department, Research Expertise, and Source URL.
+- Some records have research expertise marked as Not provided.
+- The dataset was compiled from official UTM FAI department webpages and manually reviewed.
+- The TXT header should be updated to reflect its manual review status.
+
+### S02 — FYP Handbook
+
+- File size: 89,523,865 bytes.
+- Total PDF pages: 119.
+- Pages containing extractable text: 115.
+- Pages without extractable text: 4.
+- The first page contains repeated headings and duplicated code text in the extraction.
+- Page-level metadata should be preserved for future citations.
+- Pages without extractable text require further inspection before processing decisions are finalized.
+
+## 4. Storage and Data Handling
+
+**Raw data:** `data/raw/`
+
+**Prepared data:** `data/processed/`
+
+Original files will be retained separately from processed outputs.
+
+The Colab workspace is temporary. Final approved artefacts will be saved to the existing project repository.
+
+## 5. Selected Preparation Method
+
+**Pathway A — PDF/TXT**
+
+Planned processing includes document parsing, justified whitespace cleaning, text chunking, validation, and metadata preservation.
+
+Missing lecturer expertise will not be invented. Supervisor availability will not be inferred from research expertise.
