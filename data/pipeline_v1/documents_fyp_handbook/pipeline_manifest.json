@@ -1,0 +1,41 @@
+{
+  "pipeline_version": "week3-v1",
+  "generated_at_utc": "2026-11-17T21:08:30.126209+00:00",
+  "data_type": "documents_fyp_handbook",
+  "configuration": {
+    "chunk_size": 500,
+    "method": "paragraph-aware"
+  },
+  "processing_method": "paragraph-aware text chunks of 500 characters",
+  "sources": [
+    {
+      "path": "/content/week3_project/data/raw/utm_fai_fyp_guidelines.pdf.pdf",
+      "sha256": "4b698d76fcb230f5d15a817b3b6949c859ccf96f7aeb9e9fab708dbe9d4d6998"
+    }
+  ],
+  "outputs": [
+    "/content/week3_project/data/pipeline_v1/documents_fyp_handbook/prepared_text.jsonl"
+  ],
+  "source_output_mapping": [
+    {
+      "source": "/content/week3_project/data/raw/utm_fai_fyp_guidelines.pdf.pdf",
+      "output": "/content/week3_project/data/pipeline_v1/documents_fyp_handbook/prepared_text.jsonl"
+    }
+  ],
+  "inspection": {
+    "source": "utm_fai_fyp_guidelines.pdf.pdf",
+    "characters": 187647,
+    "pages": 119
+  },
+  "validation": {
+    "output_count": 1,
+    "output_sha256": [
+      "b39570846349af756cbcad7be54dff0df21ae76769c2ad73ee19214175e10a73"
+    ],
+    "output_bytes": [
+      246790
+    ]
+  },
+  "source_version": "Not verified",
+  "access_rights": "Not verified — check before sharing"
+}

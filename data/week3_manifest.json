@@ -1,0 +1,28 @@
+{
+  "pipeline_version": "week3-v1",
+  "generated_at_utc": "2026-11-17T20:58:33.655200+00:00",
+  "records": [
+    {
+      "source_id": "S01",
+      "source_filename": "fai_all_lecturer_profiles.txt",
+      "source_sha256": "7ecc0ab847de8020ac6e4891b8038c029c96ebf81f95f05e009cc6e0159626bf",
+      "prepared_output": "data/processed/prepared_text.jsonl",
+      "prepared_sha256": "fa7e9b9a3c28485553ac784ff45ccd532f92c4164eedefef4abdf228d3bc2a2d",
+      "processing_note": "paragraph-aware-char-500",
+      "source_version": "Not verified",
+      "access_rights": "Not verified",
+      "status": "Prepared; quality review pending"
+    },
+    {
+      "source_id": "S02",
+      "source_filename": "utm_fai_fyp_guidelines.pdf.pdf",
+      "source_sha256": "4b698d76fcb230f5d15a817b3b6949c859ccf96f7aeb9e9fab708dbe9d4d6998",
+      "prepared_output": "data/processed/prepared_fyp_handbook.jsonl",
+      "prepared_sha256": "b94a443beb81f6c1b36099c960b34e5326483b91891e252f06a9c804cdb05466",
+      "processing_note": "paragraph-aware-char-500",
+      "source_version": "Not verified",
+      "access_rights": "Not verified",
+      "status": "Prepared; quality review pending"
+    }
+  ]
+}
