@@ -1,0 +1,825 @@
+UTM FAI LECTURER PROFILE DATASET
+Collection date (UTC): 2026-11-17T18:26:42.789826+00:00
+Source: Official UTM FAI department webpages
+Status: Automatically extracted; manual verification required
+
+---
+Record ID: FAI-001
+Name: Assoc. Prof. Dr. Nurulhuda Firdaus binti Mohd Azmi
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-002
+Name: Prof. Emeritus Datuk Dr. Osman bin Bakar
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-003
+Name: Prof. Dato’ Dr. Mohamad Fauzan bin Noordin
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-004
+Name: Prof. Dr. Olaf Jonny Groth
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-005
+Name: Dr. Tee Kim Siong
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-006
+Name: Prof. Dr. Shamsul bin Sahibuddin
+Department: Intelligence Informatics
+Research Expertise: Software and System Engineering, Software Quality, Secure Software Development
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-007
+Name: Prof. Dr. Mohd Nazri bin Kama
+Department: Intelligence Informatics
+Research Expertise: Software Engineering, System Development, Data Management, Electric Vehicle, CyberSecurity, Data Protection
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-008
+Name: Prof. Ts. Dr. Mohd Naz’ri bin Mahrin
+Department: Intelligence Informatics
+Research Expertise: Software Engineering, Information Security Management System, Big Data Analytics
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-009
+Name: Prof. Ts. Dr. Maslin binti Masrom
+Department: Intelligence Informatics
+Research Expertise: Information Technology, Quantitative & Qualitative Analysis, Structural Equation Modeling
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-010
+Name: Assoc. Prof. Dr. Suriayati bt Chuprat
+Department: Intelligence Informatics
+Research Expertise: Software Engineering, Data Analytic, Cyber Security, Parallel Computing
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-011
+Name: Assoc. Prof. Ts. Dr. Norliza binti mohamed
+Department: Intelligence Informatics
+Research Expertise: Optical Communication, Radio over Fiber, LED Farming Technology, IoT, Antenna Design
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-012
+Name: Assoc. Prof. Ts. Dr. Noor Azurati binti Ahmad @ Salleh
+Department: Intelligence Informatics
+Research Expertise: Software Engineering, Embedded Systems, Event-Triggered & Time-Triggered Software Architecture
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-013
+Name: Assoc. Prof. Ts. Dr. Siti Sophiayati binti Yuhaniz
+Department: Intelligence Informatics
+Research Expertise: Computer Engineering Systems, Pattern Recognition, Image Processing, Machine Learning, Remote Sensing
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-014
+Name: Assoc. Prof. Ts. Dr. Azri bin Azmi
+Department: Intelligence Informatics
+Research Expertise: Software Engineering, Software Testing, Software Traceability
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-015
+Name: Assoc. Prof Ts. Dr. Nur Azaliah binti Abu Bakar
+Department: Intelligence Informatics
+Research Expertise: Enterprise Architecture, Digital Government, Digital Transformation, Information Security Management
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-016
+Name: Assoc. Prof. Dr. Marwan Hadri bin Azmi
+Department: Intelligence Informatics
+Research Expertise: Wireless Communication, Coding Theory, Communication Theory, Detection Theory
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-017
+Name: Ts. Dr. Normaisharah binti Mamat
+Department: Intelligence Informatics
+Research Expertise: Intelligent Control System, Artificial Intelligence and Deep Learning
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-018
+Name: Dr. Azizul bin Azizan
+Department: Intelligence Informatics
+Research Expertise: Wireless Communications, Embedded Machine Learning, Internet of Things
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-019
+Name: Ts. Dr. Haslina binti Md. Sarkan
+Department: Intelligence Informatics
+Research Expertise: Software Engineering, Image Processing, Electronics
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-020
+Name: Dr. Hazlifah binti Mohd Rosli
+Department: Intelligence Informatics
+Research Expertise: Software Testing, Semantic Web Services, Requirements Engineering
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-021
+Name: Dr. Mohd Syahid bin Mohd Anuar
+Department: Intelligence Informatics
+Research Expertise: Optimization Algorithm, Machine Learning, Deep Learning
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-022
+Name: Dr. Nilam Nur binti Amir Sjarif
+Department: Intelligence Informatics
+Research Expertise: Pattern Recognition, Soft Computing, Machine Learning, Big Data Analytics, Watermarking
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-023
+Name: Ts. Dr. Noraimi bin Shafie
+Department: Intelligence Informatics
+Research Expertise: Digital Signal Processing, Control System, IoT Embeded System
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-024
+Name: Ts. Dr. Suriani binti Mohd Sam
+Department: Intelligence Informatics
+Research Expertise: Wireless Communication & Networks, Future Generation Networks, Internet-of-Things (IoT)
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-025
+Name: Dr. Norshaliza binti Kamaruddin
+Department: Intelligence Informatics
+Research Expertise: Image Processing And Computer Vision
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-026
+Name: Dr. Othman bin Mohd Yusop
+Department: Intelligence Informatics
+Research Expertise: Software Engineering, Software Analysis and Design, Software Traceability
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-027
+Name: Ts. Dr. Saiful Adli bin Ismail
+Department: Intelligence Informatics
+Research Expertise: Information Security, Cloud and Grid Computing Security, Information Assurance and Software Engineering
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-028
+Name: Ts. Dr. Yazriwati binti Yahya
+Department: Intelligence Informatics
+Research Expertise: Software Engineering, Information Science, Educational Informatics, Social Media Management
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-029
+Name: Dr. Yusnaidi bin Md Yusof
+Department: Intelligence Informatics
+Research Expertise: Wireless Sensor Networks, Mobile Computing, Android-based Systems Programming
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-030
+Name: Dr. Wan Noor Hamiza binti Wan Ali
+Department: Intelligence Informatics
+Research Expertise: Supervised Machine Learning, Natural Language Processing, Information Retrieval, Feature Extraction, Artificial Intelligence, Database Management
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-031
+Name: Dr. Saharudin bin Ismail
+Department: Intelligence Informatics
+Research Expertise: Occupational Therapy, Health Sciences, Rehabilitation Technology and Biomechanics
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-032
+Name: Dr. Mohd Shahrizal bin Rusli
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-033
+Name: Dr. Siti Maherah binti Hussin
+Department: Intelligence Informatics
+Research Expertise: Renewable energy, generation scheduling, optimization
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-034
+Name: Dr. Adam bin Mohd Khairuddin
+Department: Intelligence Informatics
+Research Expertise: Machine Learning, Deep Learning, Signal Processing
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-035
+Name: Dr. Noor Jannah binti Zakaria
+Department: Intelligence Informatics
+Research Expertise: Deep Learning, Machine Learning, Computer Vision, Autonomous Vehicles
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-036
+Name: Dr. Kazim Raza Talpur
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-037
+Name: Dr. Abdulraqeb Shaif Ahmed Al-Hammadi
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-038
+Name: Dr. Ahmad Firdaus bin Yosman
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-039
+Name: Dr. Liyana Safra binti Zaabar
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-040
+Name: Dr. Septavera Sharvia
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-041
+Name: Dr. Mohamad Zulkefli bin Adam
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-042
+Name: Dr. Nur Athirah Farhana binti Omar Zai
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-043
+Name: Dr. Sheikh Ahmad Hadri bin Sheikh Hussain
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-044
+Name: Dr. Siti Nabilah binti Yusof
+Department: Intelligence Informatics
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-intelligence-informatics-2/
+
+---
+Record ID: FAI-045
+Name: Assoc. Prof. Dr. Rahimah binti Muhamad
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Civil and Structural Engineering, Tension Stiffening in Reinforced Concrete, Fiber Reinforced Concrete
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-046
+Name: Prof. Ir. Ts. Dr. Shreeshivadasan a/l Chelliapan
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Environmental Engineering, Wastewater Treatment, Chemical Treatment, Biological Process
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-047
+Name: Prof. Ts. Dr. Khairur Rijal
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Powder Metallurgy, Materials Processing, Quality Management & Improvement, Quality Prediction & Recognition
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-048
+Name: Prof. Emeritus Dato’ Ir. Ts. Dr. Zainai bin Mohamed
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-049
+Name: Assoc. Prof. Ts. Dr. Mohamad Syazli bin Fathi
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Project Management Construction, Construction Quality & Safety
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+
+---
+Record ID: FAI-050
+Name: Assoc. Prof. Ts. Dr. Mohd Yusof bin Md.Daud
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Operation and Management, Materials & Manufacturing, Ergonomics, Ultrasonic Vibration, FE Modelling
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-051
+Name: Assoc. Prof. Ts. Dr. Nelidya binti Md. Yusoff
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Optical Communications system, Photonics, Optical Amplifiers and Fiber Laser, Optical Sensor
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-052
+Name: Assoc. Prof. Ir. Ts. Dr. Noor Irza binti Mohd Zaki
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Ocean Engineering, Offshore Structure Modelling, Probabilistic Response Modelling
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-053
+Name: Assoc. Prof. Ts. Dr. Roslina binti Mohammad
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Impact Mechanics, Finite Element Analysis, Fracture and Solid Mechanics
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-054
+Name: Assoc. Prof. Dr. Rudzidatul Akmam bt Dziyauddin
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Communication Systems & Networks, Future Generation Wireless Networks, Sensor Applications
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-055
+Name: Assoc. Prof. Ts. Dr. Sa’ardin bin Abdul Aziz
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Finite Element Modelling, Materials Processing, Safety Engineering & Occupational Safety & Health (OSH)
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-056
+Name: Assoc. Prof. Dr. Norazli binti Othman
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Environmental, Solid Waste Management, Life Cycle Assessment, Water & Wastewater Engineering
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-057
+Name: Assoc. Prof. Dr. Samira Albati bt. Kamaruddin
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Water Resources, Groundwater Hydrology, Surface Water Hydrology, Environmental Issues & Assessment
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-058
+Name: Assoc. Prof. Rozana binti Zakaria
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-059
+Name: Assoc. Prof. Ts. Dr. Sathiabama a/p T. Thirugnana
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Renewable Energy, Solar PV, Ocean Thermal Energy, Electrical & Electronics, Thermodynamics
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-060
+Name: Assoc. Prof. Ir. Dr. Shamsul bin Sarip
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Renewable Energy, micro hydro turbine, computational fluid dynamics & structure analysis
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-061
+Name: Assoc. Prof. Ts. Dr. Mohamad Zaki bin Hassan
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Composite, Natural Fiber, Additive Manufacturing, Polymer
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-062
+Name: Assoc. Prof. Ir. Ts. Dr. Mohd Khairi bin Abu Husain
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Ocean Engineering, Offshore Structure Modelling, Hydrodynamic Wave Loading Simulation, Reliability & Risk Assessment
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-063
+Name: Assoc. Prof. Ts. ChM Dr.Hjh. Rozzeta binti Dolah
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Biomass Renewable Energy, Six Sigma, Robust Taguchi Method, Measurement & Metrology, Nanotechnology
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-064
+Name: Ts. Dr. Siti Armiza binti Mohd Aris
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Brain signal processing, Machine Learning, Predictive Modelling, Biomedical Technology
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-065
+Name: Dr. Mohd Azri bin Mohd Izhar
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Wireless Communications, Coding Theory, Turbo Code, Cognitive Radio, Radar Cross Sectio
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-066
+Name: Dr. Abdul Yasser bin Abd Fatah
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Smart Materials, Magnetorheology, Systems and Industrial Engineering, Manufacturing Engineering
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-067
+Name: Dr. Fadhilah binti Abdul Razak
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Renewable Energy, Thermal Engineering, Design Optimization, Modeling and Simulation
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-068
+Name: Ts. Dr. Faizir bin Ramlie
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Advanced Manufacturing Technology, Machine Learning using Swarm Intelligence, Pattern Recognition using Mahalanobis-Taguchi System, Project Management.
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-069
+Name: Ts. Dr. Fatimah binti Salim
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Power System Analysis, Power Quality, Power Electronics, Electronics, Renewable Energy
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-070
+Name: Ts. Haslaile binti Abdullah
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Signal processing of biological signals, Sleep study, Artificial Intelligent & Pattern Recognition
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-071
+Name: Ir. Dr. Hazilah binti Mad Kaidi
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Electrical engineering, wireless & communication networks, green technology
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-072
+Name: Dr. Mohamed Azlan bin Suhot
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Composite Manufacturing, Testing and Defect Analysis, Image Analysis and 3D X-Ray Microtomography
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-073
+Name: Ir. Dr. Mohd Nabil bin Muhtazaruddin
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Power System, Transmission & Distribution Systems, Meta-Heuristic Optimization
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-074
+Name: Ts. Dr. Nor Fazilah binti Mohd Hashim
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Structural Engineering, Progressive Collapse, Precast Concrete Connection
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-075
+Name: Ir. Ts. Dr. Siti Zura binti A Jalil@ Zainuddin
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Brain signal processing, Machine Learning, Predictive Modelling, Biomedical Technology
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-076
+Name: Dr. Nurul Aini binti Bani
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Renewable Energy, Green Technology, Rehabilitation Engineering, High Voltage Engineering
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-077
+Name: Ts. Dr. Norulhusna binti Ahmad
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-078
+Name: Dr. Mas Omar bin Mas Rosemal Hakim
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-079
+Name: Ir. Ts. Dr. Nurul Huda binti Ahmad
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-080
+Name: Ts. Rafizah binti Musa
+Department: Smart Engineering and Advanced Technology
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-smart-engineering-and-advanced-technology/
+
+---
+Record ID: FAI-081
+Name: Dr. Fiza binti Abdul Rahim
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Information Security, Cyber Security, Digital Forensics, Informatics
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-082
+Name: Tan Sri Datuk Dr. Ahmad Zaharudin bin Idrus
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-083
+Name: Prof. Dato’ Ir. Dr. A Bakar bin Jaafar
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Sustainability, Energy & Renewable Energy, Ocean Thermal Energy Conversion
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-084
+Name: Assoc. Prof. Dr. Roslina binti Ibrahim
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-085
+Name: Assoc. Prof. Dr. Wan Normeza binti Wan Zakaria
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Economics education, organizational behaviour and human capital development
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-086
+Name: Assoc. Prof. Ts. Dr. Nor Zairah binti Ab Rahim
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Technology Adoption, Technology Appropriation, Social Media Impact, Qualitative Research
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-087
+Name: Dr. Intan Sazrina binti Saimy@ Saman
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Environment Groundwater, Sustainability, Water Quality, Health, Policy Studies
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-088
+Name: Dr. Siti Hasliah binti Salleh
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Policymaking, Policy methodology, Instrument development
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-089
+Name: Ts. Dr. Abdul Ghafar bin Jaafar
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Network and Application Security, Intrusion Detection and Prevention Systems (IDPS), Endpoint Detection and Response (EDR), Cyber Threat Intelligence, Malware Attack and Analysis, Encryption, OSINT, Cyber Security in AI and AI in Cyber Security
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-090
+Name: Ts. Dr. Doris Wong Hooi Ten
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Information Visualization, Adaptive Web System, Human Computer Interaction
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-091
+Name: Ts. Dr. Noor Hafizah binti Hassan
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Information Security, Healthcare Informatics, Software Engineering
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-092
+Name: Dr. Ganthan a/l Narayana Samy
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Information Security, Information Security Policy, Ethical Hacking, Cloud Computing
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-093
+Name: Dr. Hayati @ Habibah binti Abdul Talib
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Quality and Productivity Improvement, Quality Management, Small and Medium Enterprise, Entrepreneurship
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-094
+Name: Ts. Dr. Suraya binti Ya’acob
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Data Visualization, Informatics and Strategic Planning
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-095
+Name: Ts. Dr. Noorlizawati binti Abd Rahim
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: AI in Business, Innovation Management, Technopreneurship, Technological Leadership, Opportunity Recognition in Digital Markets, Innovative Pedagogies in Entrepreneurship Education
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-096
+Name: Dr. Pritheega a/p Magalingam
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Digital Forensics, Information Security Risk Management, Complex Network Analysis, Business Analytics
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-097
+Name: Dr. Siti Amirah binti Othman
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Human Resource Development, Training and Development, Performance Management
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-098
+Name: Dr. Nurazean binti Maarop
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Health IT Research, IT Security and Management Issues, Data Mining & Business Analytics using SPSS Modele
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-099
+Name: Dr. Rosmahaida binti Jamaludin
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Analytical Chemistry, Chemo-informatics
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-100
+Name: Dr. Shazwin binti Mat Taib
+Department: Business Intelligence, Humanities and Governance
+Research Expertise: Responsible AI & Ethics, AI Governance, Development Science, Transparent GHG Reporting, ESG&SDG Reporting
+Source URL: https://fai.utm.my/department-of-business-intelligent-humanities-and-governance/
+
+---
+Record ID: FAI-101
+Name: Sr. Dr. Rozaimi bin Che Hasan
+Department: Creative Artificial Intelligence
+Research Expertise: Geospatial analysis, Underwater Sonar, Marine mapping
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-102
+Name: Assoc. Prof. Sr. Dr. Siti Uzairiah binti Mohd Tobi
+Department: Creative Artificial Intelligence
+Research Expertise: Facilities Management, Asset & Property Management, Disaster Risk Management, Social Enterprise
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-103
+Name: Dr. Basyarah binti Hamat
+Department: Creative Artificial Intelligence
+Research Expertise: Industrial Design, Design theory and methodology
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-104
+Name: Ts. Dr. Mohd Farhan bin Ahmad Shukri
+Department: Creative Artificial Intelligence
+Research Expertise: Design Technology, Furniture Design & Manufacturing, Materials & Manufacturing Process
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-105
+Name: Mohamad Fairuz bin Abdul Rahim
+Department: Creative Artificial Intelligence
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-106
+Name: Dr. Nik Shahman
+Department: Creative Artificial Intelligence
+Research Expertise: 
+Design Sketching, Design Process, New Product Development
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-107
+Name: Dr. Nuraihan binti Ismail
+Department: Creative Artificial Intelligence
+Research Expertise: Industrial modelling, Decision making in design, Prototype Development
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-108
+Name: Dr. Raja Marzyani binti Raja Mazlan
+Department: Creative Artificial Intelligence
+Research Expertise: Facilities Management, Building Services, Building Maintenanc
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-109
+Name: Sr. Dr. Tuti Haryati binti Jasimin
+Department: Creative Artificial Intelligence
+Research Expertise: Asset & Facility Management, Sustainable / Green Building, Blockchain in Real Estate
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-110
+Name: Dr. Hafiza binti Abas
+Department: Creative Artificial Intelligence
+Research Expertise: Informatics, Augmented Reality, Usability Testing
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-111
+Name: Ts. Dr. Norziha binti Megat Mohd Zainuddin
+Department: Creative Artificial Intelligence
+Research Expertise: Informatics, Augmented Reality, Usability Testing
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-112
+Name: Dr. Nuraini binti Daud
+Department: Creative Artificial Intelligence
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-113
+Name: Dr. Nur Athirah Diyana binti Mohammad Yusof
+Department: Creative Artificial Intelligence
+Research Expertise: Industrial Ergonomics, Occupational Exposure, Occupational Safety and Health
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-114
+Name: Dr. Sya Azmeela binti Shariff
+Department: Creative Artificial Intelligence
+Research Expertise: Educational Technology, Instructional Design, Online Learning
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-115
+Name: Ir. Dr. Mohd Shamsuri bin Khalid
+Department: Creative Artificial Intelligence
+Research Expertise: Risk Assessment, Forensic Engineering Investigation, Occupational Accident Investigation, Occupational Safety and Health Legislations
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-116
+Name: Ts. Dr. Siti Haida binti Ismail
+Department: Creative Artificial Intelligence
+Research Expertise: BioengineFering , Work-related musculoskeletal disorder, Ergonomics
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
+
+---
+Record ID: FAI-117
+Name: Dr. Wan Rosanisah binti Wan Mohd
+Department: Creative Artificial Intelligence
+Research Expertise: Not provided
+Source URL: https://fai.utm.my/department-of-creative-artificial-intelligence/
